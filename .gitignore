@@ -6,6 +6,7 @@
 
 /tmp
 /test
+/vendor/assets/bower_components
 
 # Ignore bundler config.
 /.bundle
